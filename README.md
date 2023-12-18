@@ -1,5 +1,7 @@
 # Foresight_Pharmaceuticals_SalesAnalysis
 
+[Visualization](https://public.tableau.com/views/ForesightPharmaceuticals_17020144024680/SalesAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## **Introduction**
 
 Foresight Pharmaceuticals, a prominent pharmaceutical manufacturing company with a global footprint, operates in various markets divided across different regions worldwide. The management of the Germany and Poland markets falls under one of these regions. Rather than selling directly to customers, the company collaborates with a select group of distributors in all their regions.
